@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=pr4ba5" alt="pr4ba5" /></a> </p>
 
-- ⚡ Fun fact **## 🛠️ Jack of All Trades, Master of None! Learning web dev, app dev, machine learning, UI/UX, and life... Basically, I know *a little* about *a lot* — enough to break things confidently. Master of restarting projects and never finishing tutorials.**
+## 🛠️ Jack of All Trades, Master of None! Learning web dev, app dev, machine learning, UI/UX, and life... Basically, I know *a little* about *a lot* — enough to break things confidently. Master of restarting projects and never finishing tutorials.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
