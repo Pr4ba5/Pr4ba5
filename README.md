@@ -73,7 +73,6 @@ Here are some of the languages and tools I'm familiar with:
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=pr4ba5&show_icons=true&locale=en" alt="pr4ba5" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=pr4ba5&" alt="pr4ba5" /></p>
 
 ---
 
