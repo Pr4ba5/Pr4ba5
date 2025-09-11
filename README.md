@@ -71,7 +71,6 @@ Here are some of the languages and tools I'm familiar with:
   <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=pr4ba5&show_icons=true&locale=en&layout=compact" alt="pr4ba5" />
 </p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=pr4ba5&show_icons=true&locale=en" alt="pr4ba5" /></p>
 
 
 ---
