@@ -5,10 +5,10 @@
 
 <br/>
 
-# 🌌 Konnichiwa! I'm Prabash 👋
+# Hello! I'm Prabash 👋
 
 ### ⚡ "The power to believe in yourself... that becomes the power to change destiny."
-**Aspiring Software Developer • Lifelong Learner • Anime Connoisseur**
+**Aspiring Developer • Lifelong Learner**
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=pr4ba5&label=Profile%20Views&color=6e5494&style=flat-square" alt="Views" />
@@ -87,13 +87,13 @@ I'm a passionate developer exploring the vast landscapes of technology. From cra
 ### 📬 Let's Connect (Join My Party)
 
 <p align="center">
-  <a href="https://linkedin.com/in/prabash-khadka-527994247" target="blank">
+  <a href="https://www.linkedin.com/in/prabhash-khadka-527994247/" target="blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   <a href="https://instagram.com/prabas_khadka" target="blank">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
   </a>
-  <a href="mailto:your-email@example.com">
+  <a href="prabhashkhadka326@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
 </p>
@@ -109,4 +109,3 @@ I'm a passionate developer exploring the vast landscapes of technology. From cra
 </div>
 \`\`\`
 
-I've enhanced your README by incorporating dynamic "Tokyo Night" themed GitHub stats and categorized skill badges for a much cleaner look. I also added a "Character Info" YAML block and an anime-inspired quote to lean into the theme while maintaining professional readability.
