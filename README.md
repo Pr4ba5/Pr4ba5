@@ -17,18 +17,18 @@
 
 ---
 
-### 🚀 Technical Overview
+###  Technical Overview
 
 I am a results-driven **Software Engineer** specializing in building high-performance, scalable applications. With a strong foundation in **Node.js** and **Machine Learning**, I focus on writing maintainable code and architecting robust systems that solve real-world problems.
 
-- ⚡ **Backend**: Expert in Node.js, Express, and distributed systems.
-- 🤖 **AI/ML**: Implementing predictive models using Python and TensorFlow.
-- 🏗️ **Architecture**: Focused on Microservices and RESTful API design.
-- 🔒 **Security**: Committed to best practices in data protection and authentication.
+-  **Backend**: Expert in Node.js, Express, and distributed systems.
+-  **AI/ML**: Implementing predictive models using Python and TensorFlow.
+-  **Architecture**: Focused on Microservices and RESTful API design.
+-  **Security**: Committed to best practices in data protection and authentication.
 
 ---
 
-### 💻 Tech Stack & Tooling
+###  Tech Stack & Tooling
 
 <div align="center">
   <img src="https://skillicons.dev/icons?i=nodejs,js,ts,python,java,c,cpp&perline=7" />
@@ -38,25 +38,11 @@ I am a results-driven **Software Engineer** specializing in building high-perfor
   <img src="https://skillicons.dev/icons?i=git,docker,aws,linux,figma,postman&perline=6" />
 </div>
 
----
-
-### 📊 Performance Metrics
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=pr4ba5&show_icons=true&theme=transparent&title_color=4ade80&text_color=ffffff&icon_color=4ade80&border_color=333333&hide_border=false" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pr4ba5&layout=compact&theme=transparent&title_color=3b82f6&text_color=ffffff&icon_color=3b82f6&border_color=333333&hide_border=false" width="48%" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=pr4ba5&theme=dark&background=00000000&stroke=333333&fire=4ade80&ring=3b82f6&currStreakNum=ffffff" width="100%" />
-</p>
-
----
 
 ### 🤝 Connect with Me
 
 <div align="center">
-  <a href="https://linkedin.com/in/prabash-khadka-527994247" target="blank">
+  <a href="https://www.linkedin.com/in/prabhash-khadka-527994247/" target="blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   <a href="mailto:prabhashkhadka326@gmail.com">
@@ -71,5 +57,5 @@ I am a results-driven **Software Engineer** specializing in building high-perfor
 
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=rect&color=auto&height=2&section=footer" width="100%" />
-  <p><sub>"Code is the fingerprint of logic."</sub></p>
+  <p><sub>"I guess Code is the fingerprint of logic. What do you think..?"</sub></p>
 </div>
